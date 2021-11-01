@@ -138,3 +138,9 @@ button {
 		margin-left: 20px;
 	}
 }
+
+@media (min-width: 768px) {
+	body {
+	background-image: url('./images/pattern-background-desktop.svg');
+	}
+}
