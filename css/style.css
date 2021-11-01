@@ -18,7 +18,7 @@ body {
 	align-items: center;
 	min-height: 100vh;
 	font-family: 'Red Hat Display', sans-serif;
-	background-image: url('/images/pattern-background-desktop.svg');
+	background-image: url('./images/pattern-background-mobile.svg');
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-color: var(--pale-blue);
@@ -141,6 +141,6 @@ button {
 
 @media (min-width: 768px) {
 	body {
-	background-image: url('/images/pattern-background-mobile.svg');
+	background-image: url('./images/pattern-background-desktop.svg');
 	}
 }
