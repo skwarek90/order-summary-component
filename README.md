@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/order-summary-component-with-flexbox-FuMf-sKbL)
 - Live Site URL: [live site](https://skwarek90.github.io/order-summary-component/)
 
 ## My process
